@@ -1,6 +1,6 @@
 package Filosofos;
 import java.util.Random;
-//cada filósofo es un hilo (Thread) que intenta adquirir los cubiertos
+//cada filósofo es un hilo (Thread) que intenta adquirir los cubierto
 // izquierdo y derecho de manera secuencial. Si un cubierto no está disponible,
 // el filósofo espera hasta que ambos cubiertos estén disponibles para poder comer.
 // Después de comer, el filósofo espera un tiempo aleatorio antes de volver a pensar.
